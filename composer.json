@@ -1,0 +1,11 @@
+{
+    "name": "sreeja-bs-1979/hello-world-package",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "SreejaBs1979\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
